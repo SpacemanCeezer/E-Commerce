@@ -29,6 +29,7 @@ It can post, update, & delete them aswell.
 
 ![image](https://github.com/SpacemanCeezer/E-Commerce/assets/64385882/940782a7-001b-464e-8b74-c328157fb94e)
 
+Video: https://watch.screencastify.com/v/1R2lcA2H0Ep7tafJBRBZ
 
 
 
